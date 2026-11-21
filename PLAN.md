@@ -1,5 +1,7 @@
 # 4-week plan
 
+Every problem below has a written question in [questions/](questions/README.md): the task, examples, edge cases to test, and hints that stay hidden until you open them.
+
 Aim: be comfortable with the common patterns behind most online assessment and first-round interview questions, and solve a medium problem in about 25 to 30 minutes.
 
 ## Daily routine (about 1.5 to 2 hours)
@@ -14,6 +16,8 @@ Commit after every problem with a message such as `Add Two Sum (arrays-hashing)`
 
 ## Week 1: arrays, hashing, two pointers, sliding window
 
+Questions with examples, edge cases and hints: [questions/week1.md](questions/week1.md)
+
 Python tools to know: `dict`, `set`, `collections.Counter`, `collections.defaultdict`, slicing, sorting with `key=`.
 
 - Day 1: Two Sum, Contains Duplicate, Valid Anagram
@@ -25,6 +29,8 @@ Python tools to know: `dict`, `set`, `collections.Counter`, `collections.default
 - Day 7: Timed session: 3 mediums in 90 minutes
 
 ## Week 2: stack, binary search, linked lists
+
+Questions with examples, edge cases and hints: [questions/week2.md](questions/week2.md)
 
 Python tools: a `list` as a stack, `collections.deque`, `bisect`, a dummy head node for linked lists.
 
@@ -38,6 +44,8 @@ Python tools: a `list` as a stack, `collections.deque`, `bisect`, a dummy head n
 
 ## Week 3: trees and graphs
 
+Questions with examples, edge cases and hints: [questions/week3.md](questions/week3.md)
+
 Python tools: recursion (set the recursion limit only if needed), `collections.deque` for BFS, adjacency lists with `defaultdict(list)`.
 
 - Day 15: Invert Binary Tree, Maximum Depth of Binary Tree, Same Tree
@@ -49,6 +57,8 @@ Python tools: recursion (set the recursion limit only if needed), `collections.d
 - Day 21: Timed session: 3 mediums in 90 minutes
 
 ## Week 4: dynamic programming, greedy, heaps, intervals, mocks
+
+Questions with examples, edge cases and hints: [questions/week4.md](questions/week4.md)
 
 Python tools: `functools.lru_cache`, `heapq`, sorting intervals by start.
 

@@ -48,6 +48,7 @@ Topics: `arrays-hashing`, `two-pointers`, `sliding-window`, `stack`, `binary-sea
 
 ```text
 ├── problems/<topic>/<name>.py   # one solution per file: header, function, tests
+├── questions/week1-4.md         # 50 written questions with examples, edge cases and hints
 ├── templates/solution_template.py
 ├── tools/new_problem.py         # create a solution file from the template
 ├── tools/update_progress.py     # rebuild the progress table in this README
@@ -58,6 +59,8 @@ Topics: `arrays-hashing`, `two-pointers`, `sliding-window`, `stack`, `binary-sea
 ## Plan
 
 See [PLAN.md](PLAN.md) for the 4-week schedule: topics by week, suggested problems, a daily routine, and weekly timed sessions.
+
+The questions for each problem are in [questions/](questions/README.md).
 
 ## License
 
